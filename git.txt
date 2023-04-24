@@ -1,3 +1,0 @@
-Paso_1.1
-}Paso_1.2
-Inicio_Git_1
